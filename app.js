@@ -6,14 +6,11 @@ const helmet = require("helmet");
 const cors = require("cors");
 const xss = require("xss-clean");
 const rateLimiter = require("express-rate-limit");
-
+const express = require("express");
+const app = express();
 app.get("/", (req, res) => {
   res.send("jobs api");
 });
-
-const express = require("express");
-const app = express();
-
 // connectDB
 const connectDB = require("./db/connect");
 const authenticatedUser = require("./middleware/authentication");
