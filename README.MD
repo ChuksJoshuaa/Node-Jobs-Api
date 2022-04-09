@@ -50,7 +50,7 @@ Email Validation Regex
 
 #### Security
 
-- helmet
+- helmet.
 - cors.
 - xss-clean.
 - express-rate-limit.
