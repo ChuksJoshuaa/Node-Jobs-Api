@@ -53,7 +53,7 @@ Email Validation Regex
 - helmet.
 - cors.
 - xss-clean.
-- express-rate-limit.
+- express-rate-limit..
 
 Swagger UI
 
