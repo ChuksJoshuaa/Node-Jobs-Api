@@ -34,7 +34,7 @@ Email Validation Regex
 
 #### Login User
 
-- Validate - email, password - in controller.
+- Validate - email, password - in controller..
 - If email or password is missing, throw BadRequestError
 - Find User
 - Compare Passwords
