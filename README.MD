@@ -45,7 +45,7 @@ Email Validation Regex
 #### Mongoose Errors
 
 - Validation Errors
-- Duplicate (Email)
+- Duplicate (Email).
 - Cast Error.
 
 #### Security
