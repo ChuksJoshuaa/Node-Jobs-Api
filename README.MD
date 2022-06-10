@@ -46,7 +46,7 @@ Email Validation Regex
 
 - Validation Errors..
 - Duplicate (Email)..
-- Cast Error.
+- Cast Error..
 
 #### Security
 
